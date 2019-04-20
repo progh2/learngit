@@ -1,5 +1,5 @@
 # Nice Project
 ## About
-Git practice example project
+Git Simple Project
 ## Dev. Language
 C#, .Net Framework4
