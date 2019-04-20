@@ -1,7 +1,7 @@
 # INSTALL
 ## Requirement
-* Windows 7
-* JDK 1.6
+* Windows 10
+* JDK 1.11
 
 ## Install 
 1. Go to download page
